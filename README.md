@@ -1,4 +1,4 @@
-# SeaFreightCRM
+# Sea Freight CRM
 
 **<h3>Overview</h3>**
 
