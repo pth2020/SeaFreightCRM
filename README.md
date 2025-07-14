@@ -66,6 +66,10 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 <li>Cloud sync or remote database support</li>
 
+# Images
+
+![Dashboard Screenshot](images/screenshot1.png)
+
 
 
 
