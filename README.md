@@ -70,6 +70,20 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 ![Desktop App](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/desktop_app.png)
 
+![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/login_app.png)
+
+![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/main_board.png)
+
+![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/admin_dashboard.png)
+
+![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/settings.png)
+
+![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/report.png)
+
+![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/notes.png)
+
+
+
 
 
 
