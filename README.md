@@ -68,7 +68,7 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 # Images
 
-![Dashboard Screenshot](images/screenshot1.png)
+![Desktop App](images/desktop_app.png)
 
 
 
