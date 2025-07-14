@@ -68,7 +68,7 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 # Images
 
-![Desktop App](https://github.com/pth2020/SeaFreightCRM/tree/master/src/images/desktop_app.png)
+![Desktop App](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/desktop_app.png)
 
 
 
