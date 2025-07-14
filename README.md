@@ -15,10 +15,10 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 <h4>Shipment Tracking & Management</h4>
 <li> Add, update, and delete shipment records, including sender and receiver details, cargo description, destination country, and freight cost.</li>
 
-# Automated Data Entry
+<h4>Automated Data Entry<h4>
 <li>Simplified forms and reusable fields to speed up customer and shipment data input.</li>
 
-# Reporting Dashboard
+<h4>Reporting Dashboard</h4>
 **Generate reports that visualize shipping trends such as:**
 
 <li>Most frequent shipping destinations</li>
@@ -29,19 +29,19 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 <li>Average freight charges levied by country<li></li>
 
-# Search & Filter Capabilities
+<h4>Search & Filter Capabilities</h4>
 **Quickly locate specific shipments based on customer, country, status, or shipment ID.**
 
-# Login & Role-Based Access Control
+<h4>Login & Role-Based Access Control</h4>
 **Admin and staff login screens to protect sensitive information and segment features based on user roles.**
 
-# Offline First – Local Storage
+<h4>Offline First – Local Storage</h4>
 **No internet connection required. All data is stored securely in a local SQLite database.**
 
-# Generate Receipts
+<h4>Generate Receipts</h4>
 **Capability to generate receipts to email to customers**
 
-# Tech Stack
+<h4>Tech Stack</h4>h4>
 <li>Python 3</li>
 
 <li>Tkinter (GUI Framework)</li>
@@ -52,12 +52,12 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 <li>Matplotlib (Data visualisation)</li>
 
-# Target Users
+<h4>Target Users</h4>
 <li>Freight forwarding agents</li>
 
 <li>Shipping & logistics coordinators</li>
 
-# Future Enhancements (optional)
+<h4>Future Enhancements</h4>
 <li>Export reports to PDF/Excel</li>
 
 <li>Barcode scanning integration</li>
