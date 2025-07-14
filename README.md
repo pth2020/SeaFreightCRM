@@ -76,5 +76,4 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 
 
-Ask ChatGPT
 
