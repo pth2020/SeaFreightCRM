@@ -72,15 +72,15 @@ From data entry to reporting and record-keeping, it centralises your workflow in
 
 ![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/login_app.png)
 
-![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/main_board.png)
+![main_board](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/main_board.png)
 
-![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/admin_dashboard.png)
+![admin_dashboard](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/admin_dashboard.png)
 
-![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/settings.png)
+![settings](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/settings.png)
 
-![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/report.png)
+![report](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/report.png)
 
-![Login](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/notes.png)
+![notes](https://raw.githubusercontent.com/pth2020/SeaFreightCRM/master/src/images/notes.png)
 
 
 
